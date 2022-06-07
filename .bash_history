@@ -115,3 +115,52 @@ cd provoke
 ls
 git config --list
 git log
+git
+cd
+cd malli
+git config --global user.name"malleswari"
+git config --global user.mail"reddymalleswari143@gmail.com"
+git config --list
+git status
+ls
+mkdir f1 f2 f3
+ls
+git staus
+git status
+cd provoke
+mkdir provoke
+cd provoke/
+cp f1 f2 f3 provoke
+cd ..
+cd..
+cd ..
+mkdir provoke
+rmdir provoke
+rm provoke
+cd ..
+cd 
+cd provokw
+cd
+mkdir provoke
+mkdir project
+cd project
+cd ..
+cp f1 f2 f3 project
+cd malli
+ls
+cd project
+cp f1 f2 f3 project
+cd project
+mkdir project
+cd project
+cp f1 f2 f3 project
+cd project
+cd ..
+mkdir project
+rm project
+rmdir project
+ls
+rmdir project
+touch project
+vi
+vi project
